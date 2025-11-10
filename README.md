@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Nipun Mehra  
+**Aspiring Developer | Consistent Learner**
+
+I focus on building small projects, improving my fundamentals, and growing step by step as a developer.  
+📬 Reach me at **nipunmehra25dec@gmail.com** for collaboration or project work.
 
 
 ## 🌐 Socials:
