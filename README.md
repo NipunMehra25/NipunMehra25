@@ -12,10 +12,25 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NipunMehra25&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NipunMehra25&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunMehra25&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Summary
+
+| | |
+|---|---|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NipunMehra25&theme=radical" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NipunMehra25&theme=radical" /> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NipunMehra25&theme=radical&utcOffset=8" /> |  |
+
+## 🔥 Activity and Stats
+
+| | |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=NipunMehra25&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunMehra25&theme=radical&hide_border=false" /> |
+
+## 💬 Languages
+
+| | | |
+|---|---|---|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NipunMehra25&theme=radical" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NipunMehra25&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunMehra25&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" /> |
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NipunMehra25&theme=slateorange&no-frame=false&no-bg=false&margin-w=4)
