@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Nipun Mehra  
 **Aspiring Developer | Consistent Learner**
 
-I focus on building small projects, improving my fundamentals, and growing step by step as a developer.  
+I focus on building projects, improving my fundamentals, and growing step by step as a developer.  
 📬 Reach me at **nipunmehra25dec@gmail.com** for collaboration or project work.
 
 
